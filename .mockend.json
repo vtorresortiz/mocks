@@ -1,0 +1,21 @@
+{
+    "important": {
+        "items" : [
+            { 
+                "content_html": "this information is very important",
+                "content_text": "this information is very important",
+                "title": "some important information"
+            }
+        ]
+    },
+    "news": {
+        "items" : [
+            {
+                "url": "https://blog.notariacabezas.cl/2022/09/calendario-de-turnos-dia-sabado/",
+                "content_html": "this news is very new",
+                "content_text": "this news is very new",
+                "title": "some news"
+            }
+        ]
+    }
+}
