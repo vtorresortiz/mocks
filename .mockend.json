@@ -1,21 +1,24 @@
 {
+    "Item": {
+        "content_html": {
+            "string": [
+                "this information is very important"
+            ]
+        },
+        "content_text": {
+            "string": [
+                "this information is very important"
+            ]
+        },
+        "title": {
+            "string": [
+                "some important information"
+            ]
+        }
+    },
     "Important": {
         "items": {
-            "content_html": {
-                "string": [
-                    "this information is very important"
-                ]
-            },
-            "content_text": {
-                "string": [
-                    "this information is very important"
-                ]
-            },
-            "title": {
-                "string": [
-                    "some important information"
-                ]
-            }
+            "hasMany": "Item"
         }
     }
 }
