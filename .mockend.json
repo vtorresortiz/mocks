@@ -1,5 +1,5 @@
 {
-    "important": {
+    "Important": {
         "items" : [
             { 
                 "content_html": "this information is very important",
@@ -8,7 +8,7 @@
             }
         ]
     },
-    "news": {
+    "News": {
         "items" : [
             {
                 "url": "https://blog.notariacabezas.cl/2022/09/calendario-de-turnos-dia-sabado/",
